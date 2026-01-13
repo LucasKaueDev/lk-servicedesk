@@ -12,19 +12,19 @@ Sistema **HelpDesk / Service Desk** para gerenciamento de chamados de TI, com **
 ## 🎯 Objetivo
 
 Centralizar e organizar chamados de suporte de TI, permitindo:
-- criação e acompanhamento do fluxo do chamado
-- prioridade e prazo (SLA) definido automaticamente
-- alertas visuais quando o SLA estiver vencido
-- visão rápida por dashboard
+- Criação e acompanhamento do fluxo do chamado
+- Prioridade e prazo (SLA) definido automaticamente
+- Alertas visuais quando o SLA estiver vencido
+- Visão rápida por dashboard
 
 ---
 
 ## 🧩 Problema
 
 Muitas equipes de TI ainda dependem de planilhas ou ferramentas pouco flexíveis para gerenciar chamados, o que dificulta:
-- acompanhamento do status
-- priorização eficiente
-- cumprimento de prazos (SLA)
+- Acompanhamento do status
+- Priorização eficiente
+- Cumprimento de prazos (SLA)
 - auditoria e histórico
 
 ---
@@ -32,11 +32,11 @@ Muitas equipes de TI ainda dependem de planilhas ou ferramentas pouco flexíveis
 ## 💡 Solução
 
 O **LK ServiceDesk** oferece uma interface web simples e objetiva para:
-- abrir chamados
-- acompanhar o andamento
-- registrar comentários e eventos
-- controlar SLA por prioridade
-- destacar chamados vencidos visualmente
+- Abrir chamados
+- Acompanhar o andamento
+- Registrar comentários e eventos
+- Controlar SLA por prioridade
+- Destacar chamados vencidos visualmente
 
 ---
 
@@ -97,6 +97,7 @@ O **LK ServiceDesk** oferece uma interface web simples e objetiva para:
 
 - **ABERTO**
 - **EM ANDAMENTO**
+- - **EM ESPERA**
 - **RESOLVIDO**
 - **FECHADO**
 
